@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=darstib.darstib">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img heigh=500 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+There!%F0%9F%91%8B;Welcome+to+my+github+account!;Below+you+will+learn+more+about+me." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello%2C+There!%F0%9F%91%8B;Welcome+to+my+github+account!;Below+you+will+learn+more+about+me." alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
