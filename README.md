@@ -69,7 +69,7 @@
       <img align="left" heigh=400 src="https://github-readme-stats.vercel.app/api?username=darstib&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="right" heigh=400 src="https://github-readme-stats.vercel.app/api?username=darstib" />
+        <img align="right" heigh=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=darstib&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   
