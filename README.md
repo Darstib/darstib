@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=darstib.darstib">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+There!%F0%9F%91%8B;Welcome+to+my+github+account!;Below+you+will+learn+more+about+me." alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
@@ -32,33 +30,33 @@
 <p align="center">
   <code><img title="C" height="25" src="imgs/c.svg"></code>
   <code><img title="C++" height="25" src="imgs/cpp.svg"></code>
-  <code><img title="C#" height="25" src="imgs/cSharp.svg"></code>
+  <!-- <code><img title="C#" height="25" src="imgs/cSharp.svg"></code> -->
   <code><img title="Python" height="25" src="imgs/python-original.svg"></code>
-  <code><img title="Django" height="25" src="imgs/django.png"></code>
+  <!-- <code><img title="Django" height="25" src="imgs/django.png"></code> -->
   <code><img title="Javascript" height="25" src="imgs/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="imgs/problemSolving.png"></code>
+  <!-- <code><img title="Problem Solving" height="25" src="imgs/problemSolving.png"></code> -->
   <code><img title="HTML5" height="25" src="imgs/html5.svg"></code>
   <code><img title="CSS" height="25" src="imgs/css.svg"></code>
-  <code><img title="SASS" height="25" src="imgs/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="imgs/gulp.svg"></code>
-  <code><img title="React" height="25" src="imgs/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="imgs/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="imgs/angularjs.png"></code>
+  <!-- <code><img title="SASS" height="25" src="imgs/sass.svg"></code> -->
+  <!-- <code><img title="Gulp" height="25" src="imgs/gulp.svg"></code> -->
+  <!-- <code><img title="React" height="25" src="imgs/react-original.svg"></code> -->
+  <!-- <code><img title="Redux" height="25" src="imgs/redux.svg"></code> -->
+  <!-- <code><img title="AngularJS" height="25" src="imgs/angularjs.png"></code> -->
   <code><img title="Git" height="25" src="imgs/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="imgs/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="imgs/postgresql.svg"></code>
+  <!-- <code><img title=".NetCore" height="25" src="imgs/dotnetcore.svg"></code> -->
+  <!-- <code><img title="PostgreSQL" height="25" src="imgs/postgresql.svg"></code> -->
   <code><img title="Visual Studio Code" height="25" src="imgs/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="imgs/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="imgs/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="imgs/java-original.svg"></code>
+  <!-- <code><img title="Microsoft Visual Studio" height="25" src="imgs/visualstudio.png"></code> -->
+  <!-- <code><img title="JQuery" height="25" src="imgs/jquery-original.svg"></code> -->
+  <!-- <code><img title="Java" height="25" src="imgs/java-original.svg"></code> -->
   <code><img title="JSON" height="25" src="imgs/json.svg"></code>
-  <code><img title="Unity" height="25" src="imgs/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="imgs/android.svg"></code>
+  <!-- <code><img title="Unity" height="25" src="imgs/unity3d.svg"></code> -->
+  <!-- <code><img title="Android" height="25" src="imgs/android.svg"></code> -->
   <code><img title="GitHub" height="25" src="imgs/github.svg"></code>
   <code><img title="MySQL" height="25" src="imgs/mysql.svg"></code>
-  <code><img title="npm" height="25" src="imgs/npm.svg"></code>
+  <!-- <code><img title="npm" height="25" src="imgs/npm.svg"></code> -->
   <code><img title="PHP" height="25" src="imgs/php.svg"></code>
-  <code><img title="Flask" height="25" src="imgs/flask.png"></code>
+  <!-- <code><img title="Flask" height="25" src="imgs/flask.png"></code> -->
 </p>
 <hr>
 
@@ -73,7 +71,9 @@
         <img align="right" heigh=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=darstib&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  
+  <!-- <br><br><br><br><br><br><br><br><br> -->
+  <p></p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darstib&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
