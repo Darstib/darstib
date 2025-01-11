@@ -5,11 +5,12 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="imgs/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="imgs/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="imgs/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="imgs/instagram.svg"> Instagram</a></code>
+  <code><a href="https://github.com/Darstib" title="Github"><img width="22" src="imgs/github.svg"> Github </a></code>
+  <code><a href="https://darstib.github.io/blog/" title="Blog"><img width="22" src="imgs/DB.png"> Blog </a></code>
+  <code><a href="https://space.bilibili.com/1201958825/#/" title="Bilibili"><img width="22" src="https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/images/sns/bilibili.png"> Bilibili </a></code>
+  <code><a href="https://darstib.github.io/myworld" title="my world"><img width="22" src="imgs/avatar.jpg"> About me </a></code>
 </h5>
+
 <br>
 <p align="center">
   Hi, my nickname is Darstib, a student have interests in Computer Science and Information Security..
