@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  Hi, my nickname is Darstib, a student have interests in Computer Science and Information Security..
+  Hi, my nickname is Darstib, a student has interests in Computer Science and Information Security..
   <br>
   <br>
   🔬 I'm currently studying in Zhejiangg University, majoring in Information Security.
