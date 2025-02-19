@@ -24,41 +24,6 @@
   <br>
   📫 How to reach me: <a href="mailto: darstibreed@gmail.com">darstibreed@gmail.com</a>
 </p>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="imgs/c.svg"></code>
-  <code><img title="C++" height="25" src="imgs/cpp.svg"></code>
-  <!-- <code><img title="C#" height="25" src="imgs/cSharp.svg"></code> -->
-  <code><img title="Python" height="25" src="imgs/python-original.svg"></code>
-  <!-- <code><img title="Django" height="25" src="imgs/django.png"></code> -->
-  <code><img title="Javascript" height="25" src="imgs/javascript.svg"></code>
-  <!-- <code><img title="Problem Solving" height="25" src="imgs/problemSolving.png"></code> -->
-  <code><img title="HTML5" height="25" src="imgs/html5.svg"></code>
-  <code><img title="CSS" height="25" src="imgs/css.svg"></code>
-  <!-- <code><img title="SASS" height="25" src="imgs/sass.svg"></code> -->
-  <!-- <code><img title="Gulp" height="25" src="imgs/gulp.svg"></code> -->
-  <!-- <code><img title="React" height="25" src="imgs/react-original.svg"></code> -->
-  <!-- <code><img title="Redux" height="25" src="imgs/redux.svg"></code> -->
-  <!-- <code><img title="AngularJS" height="25" src="imgs/angularjs.png"></code> -->
-  <code><img title="Git" height="25" src="imgs/git-original.svg"></code>
-  <!-- <code><img title=".NetCore" height="25" src="imgs/dotnetcore.svg"></code> -->
-  <!-- <code><img title="PostgreSQL" height="25" src="imgs/postgresql.svg"></code> -->
-  <code><img title="Visual Studio Code" height="25" src="imgs/vscode.png"></code>
-  <!-- <code><img title="Microsoft Visual Studio" height="25" src="imgs/visualstudio.png"></code> -->
-  <!-- <code><img title="JQuery" height="25" src="imgs/jquery-original.svg"></code> -->
-  <!-- <code><img title="Java" height="25" src="imgs/java-original.svg"></code> -->
-  <code><img title="JSON" height="25" src="imgs/json.svg"></code>
-  <!-- <code><img title="Unity" height="25" src="imgs/unity3d.svg"></code> -->
-  <!-- <code><img title="Android" height="25" src="imgs/android.svg"></code> -->
-  <code><img title="GitHub" height="25" src="imgs/github.svg"></code>
-  <code><img title="MySQL" height="25" src="imgs/mysql.svg"></code>
-  <!-- <code><img title="npm" height="25" src="imgs/npm.svg"></code> -->
-  <code><img title="PHP" height="25" src="imgs/php.svg"></code>
-  <!-- <code><img title="Flask" height="25" src="imgs/flask.png"></code> -->
-</p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
